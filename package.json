@@ -1,0 +1,17 @@
+{
+  "name": "aws-code-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "^2.658.0",
+    "dotenv": "^8.2.0",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
